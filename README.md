@@ -2,4 +2,3 @@
 
 ### Digital Innovation One - GFT START_UNI 2021 #1
 
-##### Desenvolvido por Celso Henrique
